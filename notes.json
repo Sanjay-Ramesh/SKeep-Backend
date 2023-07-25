@@ -1,0 +1,29 @@
+{
+    "notes": [
+        {
+            "Title": "High Level Languages",
+            "Body": "Some of the high level languages",
+            "List": [
+                {
+                    "title": "Python",
+                    "completed": true
+                },
+                {
+                    "title": "Swift",
+                    "completed": false
+                },
+                {
+                    "title": "php",
+                    "completed": false
+                }
+            ],
+            "tags": [
+                "#HLL"
+            ],
+            "id": "d4aeeb90-2ab3-11ee-a449-7b9dd51fb7b9",
+            "timeStamp": "2023-07-25T06:23:55.077Z",
+            "image": "http://localhost:3000/uploads/noteImage-1690266235071-408342181.png"
+        }
+    ],
+    "timestamp": "2023-07-25T06:24:02.484Z"
+}
